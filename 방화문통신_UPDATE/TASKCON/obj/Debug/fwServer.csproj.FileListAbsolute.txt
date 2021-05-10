@@ -1,0 +1,137 @@
+D:\새 폴더\fwServer\fwServer\bin\Debug\fwServer.exe.config
+D:\새 폴더\fwServer\fwServer\bin\Debug\fwServer.exe
+D:\새 폴더\fwServer\fwServer\bin\Debug\fwServer.pdb
+D:\새 폴더\fwServer\fwServer\obj\Debug\fwServer.serverHMI.resources
+D:\새 폴더\fwServer\fwServer\obj\Debug\fwServer.Properties.Resources.resources
+D:\새 폴더\fwServer\fwServer\obj\Debug\fwServer.csproj.GenerateResource.cache
+D:\새 폴더\fwServer\fwServer\obj\Debug\fwServer.exe
+D:\새 폴더\fwServer\fwServer\obj\Debug\fwServer.pdb
+D:\작업방\새 폴더\fwServer\fwServer\fwServer\bin\Debug\fwServer.exe.config
+D:\작업방\새 폴더\fwServer\fwServer\fwServer\obj\Debug\fwServer.csprojResolveAssemblyReference.cache
+D:\작업방\새 폴더\fwServer\fwServer\fwServer\obj\Debug\fwServer.serverHMI.resources
+D:\작업방\새 폴더\fwServer\fwServer\fwServer\obj\Debug\fwServer.Properties.Resources.resources
+D:\작업방\새 폴더\fwServer\fwServer\fwServer\obj\Debug\fwServer.csproj.GenerateResource.Cache
+D:\작업방\새 폴더\fwServer\fwServer\fwServer\bin\Debug\fwServer.exe
+D:\작업방\새 폴더\fwServer\fwServer\fwServer\bin\Debug\fwServer.pdb
+D:\작업방\새 폴더\fwServer\fwServer\fwServer\obj\Debug\fwServer.exe
+D:\작업방\새 폴더\fwServer\fwServer\fwServer\obj\Debug\fwServer.pdb
+D:\작업방\새 폴더\fwServer\fwServer - test용 20-01-15\fwServer\bin\Debug\fwServer.exe.config
+D:\작업방\새 폴더\fwServer\fwServer - test용 20-01-15\fwServer\bin\Debug\fwServer.exe
+D:\작업방\새 폴더\fwServer\fwServer - test용 20-01-15\fwServer\bin\Debug\fwServer.pdb
+D:\작업방\새 폴더\fwServer\fwServer - test용 20-01-15\fwServer\obj\Debug\fwServer.serverHMI.resources
+D:\작업방\새 폴더\fwServer\fwServer - test용 20-01-15\fwServer\obj\Debug\fwServer.Properties.Resources.resources
+D:\작업방\새 폴더\fwServer\fwServer - test용 20-01-15\fwServer\obj\Debug\fwServer.csproj.GenerateResource.Cache
+D:\작업방\새 폴더\fwServer\fwServer - test용 20-01-15\fwServer\obj\Debug\fwServer.exe
+D:\작업방\새 폴더\fwServer\fwServer - test용 20-01-15\fwServer\obj\Debug\fwServer.pdb
+D:\작업방\새 폴더\fwServer\fwServer - test용 20-01-15 - 복사본\fwServer\bin\Debug\fwServer.exe.config
+D:\작업방\새 폴더\fwServer\fwServer - test용 20-01-15 - 복사본\fwServer\bin\Debug\fwServer.exe
+D:\작업방\새 폴더\fwServer\fwServer - test용 20-01-15 - 복사본\fwServer\bin\Debug\fwServer.pdb
+D:\작업방\새 폴더\fwServer\fwServer - test용 20-01-15 - 복사본\fwServer\obj\Debug\fwServer.csprojResolveAssemblyReference.cache
+D:\작업방\새 폴더\fwServer\fwServer - test용 20-01-15 - 복사본\fwServer\obj\Debug\fwServer.serverHMI.resources
+D:\작업방\새 폴더\fwServer\fwServer - test용 20-01-15 - 복사본\fwServer\obj\Debug\fwServer.Properties.Resources.resources
+D:\작업방\새 폴더\fwServer\fwServer - test용 20-01-15 - 복사본\fwServer\obj\Debug\fwServer.csproj.GenerateResource.Cache
+D:\작업방\새 폴더\fwServer\fwServer - test용 20-01-15 - 복사본\fwServer\obj\Debug\fwServer.exe
+D:\작업방\새 폴더\fwServer\fwServer - test용 20-01-15 - 복사본\fwServer\obj\Debug\fwServer.pdb
+D:\작업방\새 폴더\fwServer\fwServer - test용 20-01-15 - 복사본 - 복사본\fwServer\bin\Debug\fwServer.exe.config
+D:\작업방\새 폴더\fwServer\fwServer - test용 20-01-15 - 복사본 - 복사본\fwServer\bin\Debug\fwServer.exe
+D:\작업방\새 폴더\fwServer\fwServer - test용 20-01-15 - 복사본 - 복사본\fwServer\bin\Debug\fwServer.pdb
+D:\작업방\새 폴더\fwServer\fwServer - test용 20-01-15 - 복사본 - 복사본\fwServer\obj\Debug\fwServer.serverHMI.resources
+D:\작업방\새 폴더\fwServer\fwServer - test용 20-01-15 - 복사본 - 복사본\fwServer\obj\Debug\fwServer.Properties.Resources.resources
+D:\작업방\새 폴더\fwServer\fwServer - test용 20-01-15 - 복사본 - 복사본\fwServer\obj\Debug\fwServer.csproj.GenerateResource.Cache
+D:\작업방\새 폴더\fwServer\fwServer - test용 20-01-15 - 복사본 - 복사본\fwServer\obj\Debug\fwServer.exe
+D:\작업방\새 폴더\fwServer\fwServer - test용 20-01-15 - 복사본 - 복사본\fwServer\obj\Debug\fwServer.pdb
+D:\공유폴더\새 폴더\fwServer 20-01-22\fwServer\bin\Debug\fwServer.exe.config
+D:\공유폴더\새 폴더\fwServer 20-01-22\fwServer\obj\Debug\fwServer.exe
+D:\공유폴더\새 폴더\fwServer 20-01-22\fwServer\obj\Debug\fwServer.pdb
+D:\작업방\fwServer 20-01-31\fwServer\bin\Debug\fwServer.exe.config
+D:\작업방\fwServer 20-01-31\fwServer\bin\Debug\fwServer.exe
+D:\작업방\fwServer 20-01-31\fwServer\bin\Debug\fwServer.pdb
+D:\작업방\fwServer 20-01-31\fwServer\obj\Debug\fwServer.csprojResolveAssemblyReference.cache
+D:\작업방\fwServer 20-01-31\fwServer\obj\Debug\fwServer.serverHMI.resources
+D:\작업방\fwServer 20-01-31\fwServer\obj\Debug\fwServer.Properties.Resources.resources
+D:\작업방\fwServer 20-01-31\fwServer\obj\Debug\fwServer.csproj.GenerateResource.Cache
+D:\작업방\fwServer 20-01-31\fwServer\obj\Debug\fwServer.exe
+D:\작업방\fwServer 20-01-31\fwServer\obj\Debug\fwServer.pdb
+C:\Users\하현철\Desktop\fwServer 20-03-17\fwServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\하현철\Desktop\fwServer 20-03-17\fwServer\bin\Debug\fwServer.exe.config
+C:\Users\하현철\Desktop\fwServer 20-03-17\fwServer\bin\Debug\fwServer.exe
+C:\Users\하현철\Desktop\fwServer 20-03-17\fwServer\bin\Debug\fwServer.pdb
+C:\Users\하현철\Desktop\fwServer 20-03-17\fwServer\obj\Debug\fwServer.serverHMI.resources
+C:\Users\하현철\Desktop\fwServer 20-03-17\fwServer\obj\Debug\fwServer.Properties.Resources.resources
+C:\Users\하현철\Desktop\fwServer 20-03-17\fwServer\obj\Debug\fwServer.csproj.GenerateResource.Cache
+C:\Users\하현철\Desktop\fwServer 20-03-17\fwServer\obj\Debug\fwServer.exe
+C:\Users\하현철\Desktop\fwServer 20-03-17\fwServer\obj\Debug\fwServer.pdb
+C:\Users\하현철\Desktop\fwServer 20-03-26\fwServer\bin\Debug\fwServer.exe.config
+C:\Users\하현철\Desktop\fwServer 20-03-26\fwServer\bin\Debug\fwServer.exe
+C:\Users\하현철\Desktop\fwServer 20-03-26\fwServer\bin\Debug\fwServer.pdb
+C:\Users\하현철\Desktop\fwServer 20-03-26\fwServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\하현철\Desktop\fwServer 20-03-26\fwServer\obj\Debug\fwServer.csprojResolveAssemblyReference.cache
+C:\Users\하현철\Desktop\fwServer 20-03-26\fwServer\obj\Debug\fwServer.serverHMI.resources
+C:\Users\하현철\Desktop\fwServer 20-03-26\fwServer\obj\Debug\fwServer.Properties.Resources.resources
+C:\Users\하현철\Desktop\fwServer 20-03-26\fwServer\obj\Debug\fwServer.csproj.GenerateResource.Cache
+C:\Users\하현철\Desktop\fwServer 20-03-26\fwServer\obj\Debug\fwServer.exe
+C:\Users\하현철\Desktop\fwServer 20-03-26\fwServer\obj\Debug\fwServer.pdb
+C:\Users\하현철\Desktop\fwServer 20-03-30\fwServer\bin\Debug\fwServer.exe.config
+C:\Users\하현철\Desktop\fwServer 20-03-30\fwServer\bin\Debug\fwServer.exe
+C:\Users\하현철\Desktop\fwServer 20-03-30\fwServer\bin\Debug\fwServer.pdb
+C:\Users\하현철\Desktop\fwServer 20-03-30\fwServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\하현철\Desktop\fwServer 20-03-30\fwServer\obj\Debug\fwServer.serverHMI.resources
+C:\Users\하현철\Desktop\fwServer 20-03-30\fwServer\obj\Debug\fwServer.Properties.Resources.resources
+C:\Users\하현철\Desktop\fwServer 20-03-30\fwServer\obj\Debug\fwServer.csproj.GenerateResource.Cache
+C:\Users\하현철\Desktop\fwServer 20-03-30\fwServer\obj\Debug\fwServer.exe
+C:\Users\하현철\Desktop\fwServer 20-03-30\fwServer\obj\Debug\fwServer.pdb
+C:\Users\하현철\Desktop\fwServer 20-04-06\fwServer\bin\Debug\fwServer.exe.config
+C:\Users\하현철\Desktop\fwServer 20-04-06\fwServer\bin\Debug\fwServer.exe
+C:\Users\하현철\Desktop\fwServer 20-04-06\fwServer\bin\Debug\fwServer.pdb
+C:\Users\하현철\Desktop\fwServer 20-04-06\fwServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\하현철\Desktop\fwServer 20-04-06\fwServer\obj\Debug\fwServer.csprojResolveAssemblyReference.cache
+C:\Users\하현철\Desktop\fwServer 20-04-06\fwServer\obj\Debug\fwServer.serverHMI.resources
+C:\Users\하현철\Desktop\fwServer 20-04-06\fwServer\obj\Debug\fwServer.Properties.Resources.resources
+C:\Users\하현철\Desktop\fwServer 20-04-06\fwServer\obj\Debug\fwServer.csproj.GenerateResource.Cache
+C:\Users\하현철\Desktop\fwServer 20-04-06\fwServer\obj\Debug\fwServer.exe
+C:\Users\하현철\Desktop\fwServer 20-04-06\fwServer\obj\Debug\fwServer.pdb
+D:\작업방\방화문서버\fwServer 20-04-08\fwServer\bin\Debug\fwServer.exe.config
+D:\작업방\방화문서버\fwServer 20-04-08\fwServer\bin\Debug\fwServer.exe
+D:\작업방\방화문서버\fwServer 20-04-08\fwServer\bin\Debug\fwServer.pdb
+D:\작업방\방화문서버\fwServer 20-04-08\fwServer\bin\Debug\Newtonsoft.Json.dll
+D:\작업방\방화문서버\fwServer 20-04-08\fwServer\obj\Debug\fwServer.csprojResolveAssemblyReference.cache
+D:\작업방\방화문서버\fwServer 20-04-08\fwServer\obj\Debug\fwServer.serverHMI.resources
+D:\작업방\방화문서버\fwServer 20-04-08\fwServer\obj\Debug\fwServer.Properties.Resources.resources
+D:\작업방\방화문서버\fwServer 20-04-08\fwServer\obj\Debug\fwServer.csproj.GenerateResource.Cache
+D:\작업방\방화문서버\fwServer 20-04-08\fwServer\obj\Debug\fwServer.exe
+D:\작업방\방화문서버\fwServer 20-04-08\fwServer\obj\Debug\fwServer.pdb
+D:\작업방\방화문서버\fwServer 20-04-14\fwServer\bin\Debug\fwServer.exe.config
+D:\작업방\방화문서버\fwServer 20-04-14\fwServer\bin\Debug\fwServer.exe
+D:\작업방\방화문서버\fwServer 20-04-14\fwServer\bin\Debug\fwServer.pdb
+D:\작업방\방화문서버\fwServer 20-04-14\fwServer\bin\Debug\Newtonsoft.Json.dll
+D:\작업방\방화문서버\fwServer 20-04-14\fwServer\obj\Debug\fwServer.serverHMI.resources
+D:\작업방\방화문서버\fwServer 20-04-14\fwServer\obj\Debug\fwServer.Properties.Resources.resources
+D:\작업방\방화문서버\fwServer 20-04-14\fwServer\obj\Debug\fwServer.csproj.GenerateResource.Cache
+D:\작업방\방화문서버\fwServer 20-04-14\fwServer\obj\Debug\fwServer.exe
+D:\작업방\방화문서버\fwServer 20-04-14\fwServer\obj\Debug\fwServer.pdb
+D:\작업방\방화문서버\fwServer 20-04-20\fwServer\bin\Debug\fwServer.exe.config
+D:\작업방\방화문서버\fwServer 20-04-20\fwServer\bin\Debug\fwServer.exe
+D:\작업방\방화문서버\fwServer 20-04-20\fwServer\bin\Debug\fwServer.pdb
+D:\작업방\방화문서버\fwServer 20-04-20\fwServer\bin\Debug\Newtonsoft.Json.dll
+D:\작업방\방화문서버\fwServer 20-04-20\fwServer\obj\Debug\fwServer.DBSelectForm.resources
+D:\작업방\방화문서버\fwServer 20-04-20\fwServer\obj\Debug\fwServer.serverHMI.resources
+D:\작업방\방화문서버\fwServer 20-04-20\fwServer\obj\Debug\fwServer.Properties.Resources.resources
+D:\작업방\방화문서버\fwServer 20-04-20\fwServer\obj\Debug\fwServer.searchForm.resources
+D:\작업방\방화문서버\fwServer 20-04-20\fwServer\obj\Debug\fwServer.csproj.GenerateResource.Cache
+D:\작업방\방화문서버\fwServer 20-04-20\fwServer\obj\Debug\fwServer.exe
+D:\작업방\방화문서버\fwServer 20-04-20\fwServer\obj\Debug\fwServer.pdb
+D:\작업방\방화문서버\fwServer 20-05-07\fwServer\bin\Debug\fwServer.exe.config
+D:\작업방\방화문서버\fwServer 20-05-07\fwServer\bin\Debug\fwServer.exe
+D:\작업방\방화문서버\fwServer 20-05-07\fwServer\bin\Debug\fwServer.pdb
+D:\작업방\방화문서버\fwServer 20-05-07\fwServer\bin\Debug\Newtonsoft.Json.dll
+D:\작업방\방화문서버\fwServer 20-05-07\fwServer\obj\Debug\fwServer.csprojResolveAssemblyReference.cache
+D:\작업방\방화문서버\fwServer 20-05-07\fwServer\obj\Debug\fwServer.DBSelectForm.resources
+D:\작업방\방화문서버\fwServer 20-05-07\fwServer\obj\Debug\fwServer.serverHMI.resources
+D:\작업방\방화문서버\fwServer 20-05-07\fwServer\obj\Debug\fwServer.Properties.Resources.resources
+D:\작업방\방화문서버\fwServer 20-05-07\fwServer\obj\Debug\fwServer.searchForm.resources
+D:\작업방\방화문서버\fwServer 20-05-07\fwServer\obj\Debug\fwServer.csproj.GenerateResource.Cache
+D:\작업방\방화문서버\fwServer 20-05-07\fwServer\obj\Debug\fwServer.exe
+D:\작업방\방화문서버\fwServer 20-05-07\fwServer\obj\Debug\fwServer.pdb
+C:\Users\하현철\Desktop\TASKCON\fwServer\bin\Debug\fwServer.exe.config
+C:\Users\하현철\Desktop\TASKCON\fwServer\obj\Debug\fwServer.exe
+C:\Users\하현철\Desktop\TASKCON\fwServer\obj\Debug\fwServer.pdb
